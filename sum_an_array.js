@@ -1,0 +1,1 @@
+console.log([1,2,3,4,5].reduce(function(f, s){return f + s;}, 0));
